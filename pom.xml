@@ -76,7 +76,7 @@
   <modules>
     <module>guava</module>
     <module>guava-bom</module>
-    <module>guava-gwt</module>
+<!--    <module>guava-gwt</module>-->
     <module>guava-testlib</module>
     <module>guava-tests</module>
   </modules>
